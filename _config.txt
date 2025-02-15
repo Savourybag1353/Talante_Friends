@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+<head>
+  <title>None.txt.html</title>
+  <p lang="en">Talante_Friends.img.load[index.png] for in [0, 1000]</index.png></p>
+  
+</head>
